@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 697a8a7a06725e478f56b823081f31647bb062f5 xinming <xinming@qq.com> 1773643446 +0800	branch: Created from HEAD
+697a8a7a06725e478f56b823081f31647bb062f5 27c30cd847d7ebff0fde793ec6fb8a19daed5f19 chen <xinming@qq.com> 1773716193 +0800	rebase (finish): refs/heads/feature/new-js onto aae3a38eda9ddefc2ebd0af5ac05504f823d5c08
+27c30cd847d7ebff0fde793ec6fb8a19daed5f19 f3cbf26da6940f166fc8378f9b4e01695c385bda chen <xinming@qq.com> 1773718199 +0800	commit: Add the first git command wit config
